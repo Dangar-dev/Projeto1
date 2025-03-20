@@ -1,6 +1,6 @@
 ﻿using System.Data;
 using MySql.Data.MySqlClient;
-using System.Data;
+using System.Data
 
 namespace Projeto1.Views.Home.Repositorio
 {
