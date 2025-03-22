@@ -4,8 +4,7 @@ using System.Data;
 
 namespace Projeto1.Views.Home.Repositorio
 {
-    public class Conexao
-    {
+ 
         public class Conexao : IDisposable
         {
 
@@ -34,5 +33,5 @@ namespace Projeto1.Views.Home.Repositorio
 
     }
 
-}
+
 

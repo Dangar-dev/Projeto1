@@ -1,5 +1,7 @@
 ﻿using Projeto1.Models;
 
+
+
 namespace Projeto1.Views.Home.Repositorio
 {
     public class UsuarioRepositorio
